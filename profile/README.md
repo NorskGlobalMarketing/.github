@@ -1,12 +1,10 @@
 ## Hey, welcome to Norsk Marketing! 🥳
 
-<!-- ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg) -->
-
-We are the creative behind the scenes at Norsk Global. Want to know more about Norsk Global? Then visit us here: [Norsk Global](https://norsk.global/)
+![Github-Header](https://user-images.githubusercontent.com/10834045/169088724-366f1757-f7b3-4bc7-80dc-775a220b8c52.png)
 
 ### 🚛 What do we do?
 
-We are not your traditional 'Marketing' team. We are a group of creatives that utilise our key skills and expertise to help push Norsk into new markets whilst pushing the boundaries in the exisiting markets that we currently operate in.
+We are not your traditional 'Marketing' team. We are a group of creatives that operate behind the scenes at [Norsk Global](https://norsk.global/). Together at a team, we utilise our key skills and expertise to help push Norsk into new markets whilst exploring the boundaries in the exisiting markets that we currently operate in.
 
 <!-- - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
 - Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
