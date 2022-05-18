@@ -1,6 +1,6 @@
 ## Hello and welcome to Norsk Marketing! 👋
 
-![Github-Header](https://user-images.githubusercontent.com/10834045/169088724-366f1757-f7b3-4bc7-80dc-775a220b8c52.png)
+![Github-Header](https://user-images.githubusercontent.com/10834045/169144677-b783102b-cd27-4645-a7bf-697d5bd894a1.png)
 
 ### 🚛 What do we do?
 
