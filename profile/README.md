@@ -1,4 +1,4 @@
-## Hey, welcome to Norsk Marketing! 🥳
+## Hello and welcome to Norsk Marketing! 👋
 
 ![Github-Header](https://user-images.githubusercontent.com/10834045/169088724-366f1757-f7b3-4bc7-80dc-775a220b8c52.png)
 
