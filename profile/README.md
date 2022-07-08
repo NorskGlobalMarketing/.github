@@ -4,7 +4,7 @@
 
 ### 🚛 What do we do?
 
-We are not your traditional 'Marketing' team. We are a group of creatives that operate behind the scenes at [Norsk Global](https://norsk.global/). Together as a team, we utilise our key skills and expertise to help push Norsk into new markets whilst exploring the boundaries in the exisiting markets that we currently operate in.
+We are not your traditional 'Marketing Team'. What we are is a group of creatives that operate behind the scenes at [Norsk Global](https://norsk.global/). Together as a team, we utilise our key skills and expertise to help push Norsk into new markets whilst exploring the boundaries of the exisiting markets that we currently operate in.
 
 <!-- - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
 - Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
